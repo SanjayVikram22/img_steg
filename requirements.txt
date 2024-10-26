@@ -3,3 +3,4 @@ flask-cors==3.0.10
 Pillow==9.0.1
 numpy==1.22.0
 gunicorn
+Werkzeug==2.0.3
